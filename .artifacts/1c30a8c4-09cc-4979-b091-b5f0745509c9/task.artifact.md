@@ -1,0 +1,5 @@
+- [x] Update Routes.kt with Splash and Login
+- [x] Create SplashScreen.kt
+- [x] Create LoginScreen.kt
+- [x] Update NavGraph.kt with new destinations
+- [x] Run build to verify
