@@ -7,8 +7,8 @@
   "sha256": "sha256:9681c9a41075eb398525ebdd57a0869d47d55a43f299b19012b8e1b1964111de",
   "releaseNotes": [
     "Initial public release.",
-    "Modern Jetpack Compose UI.",
-    "GitHub in-app update system.",
+    "Bux Fixes.",
+    "Optimized UI.",
     "Performance improvements."
   ]
 }
