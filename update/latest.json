@@ -4,7 +4,7 @@
   "mandatory": false,
   "releaseDate": "2026-07-16",
   "apkUrl": "https://github.com/Josh-WinOFlex/fluxion/releases/download/v1.1.0/Fluxion-Mobile-v1.1.0.apk",
-  "sha256": "sha256:9681c9a41075eb398525ebdd57a0869d47d55a43f299b19012b8e1b1964111de",
+  "sha256": "sha256:b3ce48a4769c7a3474c78945212c6afcb5b792ef42ae8b5662314e24bdc81284",
   "releaseNotes": [
     "Initial public release.",
     "Bux Fixes.",
