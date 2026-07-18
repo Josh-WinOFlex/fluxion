@@ -1,14 +1,17 @@
 {
   "versionCode": 4,
-  "versionName": "1.1.1",
+  "versionName": "1.1.2",
   "mandatory": false,
   "releaseDate": "2026-07-16",
   "apkUrl": "https://github.com/Josh-WinOFlex/fluxion/releases/download/v1.1.0/Fluxion-Mobile-v1.1.0.apk",
   "sha256": "sha256:b3ce48a4769c7a3474c78945212c6afcb5b792ef42ae8b5662314e24bdc81284",
   "releaseNotes": [
-    "Initial public release.",
-    "Bux Fixes.",
-    "Optimized UI.",
-    "Performance improvements."
+    "Added WinOFlex Updater in-app update system.",
+    "Improved navigation and UI consistency.",
+    "Changes to the navigation system.",
+    "Moved Alerts to the bottom navigation.",
+    "Dashboard Balance now opens Recharge.",
+    "Replaced all currency values with Indian Rupee (₹).",
+    "Performance improvements and bug fixes."
   ]
 }
