@@ -1,17 +1,17 @@
 {
-  "versionCode": 10,
+  "versionCode": 7,
   "versionName": "1.1.5",
   "mandatory": false,
-  "releaseDate": "2026-07-18",
-  "apkUrl": "https://github.com/Josh-WinOFlex/fluxion/releases/download/V1.1.2/Fluxion-Mobile-v1.1.2.apk",
-  "sha256": "sha256:b3ce48a4769c7a3474c78945212c6afcb5b792ef42ae8b5662314e24bdc81284",
+  "releaseDate": "2026-07-30",
+  "apkUrl": "https://github.com/Josh-WinOFlex/fluxion/releases/download/V1.1.5/Fluxion-Mobile-v1.1.5.apk",
+  "sha256": "sha256:500a198e708cd98fa357e7521f28e2cb7596aaba57dcf5cd7287bafb8de6b0c9",
   "releaseNotes": [
-    "Added WinOFlex Updater in-app update system.",
+    "Added Working Login and SignUp Systems",
     "Improved navigation and UI consistency.",
     "Changes to the navigation system.",
-    "Moved Alerts to the bottom navigation.",
-    "Dashboard Balance now opens Recharge.",
-    "Replaced all currency values with Indian Rupee (₹).",
+    "Google Login Available",
+    "Azure Integration halfdone",
+    "Enjoy The Update , Josh",
     "Performance improvements and bug fixes."
   ]
 }
