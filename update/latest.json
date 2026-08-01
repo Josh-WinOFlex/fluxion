@@ -1,7 +1,7 @@
 {
   "versionCode": 8,
   "versionName": "1.1.6",
-  "mandatory": false,
+  "mandatory": true,
   "releaseDate": "2026-08-01",
   "apkUrl": "https://github.com/Josh-WinOFlex/fluxion/releases/download/V1.1.6/Fluxion-Mobile-v1.1.6.apk",
   "sha256": "sha256:42b27412b501c5e396bde611c293b0576f306b418254e8ac3f87f7a2aafc56a4",
